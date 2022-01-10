@@ -11,7 +11,6 @@
 <center><img src="images/Capture 8.PNG"/></center>
 <br>
 
----
 ### Deep Convolutional Model to Study Brain-stimulation Induced Features from Human EEG Data (May - Aug 2019)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_PROJECT-CNN-Classifier)
@@ -25,6 +24,7 @@
 <center><img src="images/Experiment paradigm.PNG"/></center>
 <br>
 
+
 ### Software-hardware Interface for Synchronization of EEG and Force sensor Devices (May - Aug 2019)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_Project-Real-time-data-visualization)
@@ -33,8 +33,8 @@
 <br>
 <center><img src="images/Motor task display.jpg"/></center>
 <br>
----
-### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (HMM)
+
+### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (Sep 2020 - Present)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transient-burst-detection)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/REPAR_Poster_Rahul.pdf)
@@ -46,7 +46,7 @@
 <center><img src="images/2.png"/></center>
 <br>
 
----
+
 ### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Artifact-remove-from-cardiac-signal)
@@ -59,7 +59,7 @@
 ---
 ## Network Analysis
 
-### Community Ranking using Social Network Analysis
+### Community Ranking using Social Network Analysis (Sep 2017 - Apr 2018)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Social-Network-Analysis)
 
