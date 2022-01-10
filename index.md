@@ -6,7 +6,7 @@
 ### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
-<div style="text-align: justify"> This project is about emotion state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different emotional states. .</div>
+<div style="text-align: justify"> This project is about emotion state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different emotional states.</div>
 <br>
 <center><img src="images/Capture 8.PNG"/></center>
 <br>
@@ -29,7 +29,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_Project-Real-time-data-visualization)
 
-<div style="text-align: justify">In this project, I designed the software hardware interface to synchronize the EEG device with the force sensor and also developed experiemental tasks to study motor learning characteristics.</div>
+<div style="text-align: justify">In this project, I designed the software-hardware interface to synchronize the EEG device with the force sensor and also developed experimental tasks to study motor learning characteristics.</div>
 <br>
 <center><img src="images/Motor task display.jpg"/></center>
 <br>
@@ -51,7 +51,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Artifact-remove-from-cardiac-signal)
 
-<div style="text-align: justify">In this project, I used digital signal processing methods to remove artificially induced artifacts from simulated cardiac rhythm.</div>
+<div style="text-align: justify">In this project, I used digital signal processing methods to remove artificially induced artifacts from simulated cardiac rhythms.</div>
 <br>
 <center><img src="images/Signal_1.png"/></center>
 <br>
@@ -63,7 +63,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Social-Network-Analysis)
 
-<div style="text-align: justify">In this project, I used the k-clique algorithm to partition the network into communities. The network was formed using Facebook data, collected from survey participants using the Facebook app. The dataset includes node features (profiles), circles, and ego networks. Community ranking was obtained based on the following methods: Method-1: No of social active nodes present in the community. Method-2: On the basis the value of the function W(m) of nodes present in the community. W(m)=0.5A1(m)+0.5A2(m), where A1(m) is the average number of posts posted per week by user m and A2(m) is the average number of shares plus the number of comments plus the number of likes for each of his posts. </div>
+<div style="text-align: justify">In this project, I used the k-clique algorithm to partition the network into communities. The network was formed using Facebook data, collected from survey participants using the Facebook app. The dataset includes node features (profiles), circles, and ego networks. Community ranking was obtained based on the following methods: Method-1: No of social active nodes present in the community. Method-2: On the basis of the value of the function W(m) of nodes present in the community. W(m)=0.5A1(m)+0.5A2(m), where A1(m) is the average number of posts posted per week by user m and A2(m) is the average number of shares plus the number of comments plus the number of likes for each of his posts. </div>
 <br>
 <center><img src="images/community_3.png"/></center>
 <br>
