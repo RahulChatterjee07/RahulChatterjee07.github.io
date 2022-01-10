@@ -31,7 +31,7 @@
 
 <div style="text-align: justify">In this project, I designed the software hardware interface to synchronize the EEG device with the force sensor and also developed experiemental tasks to study motor learning characteristics.</div>
 <br>
-<center><img src="images/Signal_1.png"/></center>
+<center><img src="images/Motor task display.jpg"/></center>
 <br>
 ---
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (HMM)
