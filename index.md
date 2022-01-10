@@ -30,6 +30,7 @@
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (HMM)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transient-burst-detection)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 <div style="text-align: justify">As part of my Master’s project, I designed a Time-Delay Embedded (TDE) Hidden Markov model to detect transient bursts from the beta frequency range (13 - 30 Hz) of MEG signal. In this study, I have used morlet wavelet transform to extract beta oscillatory envelopes from the raw MEG signal. Also, I am currently developing a Machine learning (ML) pipeline to classify MEG/EEG signal into ’burst’ states in real-time and the results will be further used to design a closed-loop neurofeedback system.</div>
 <br>
@@ -41,26 +42,15 @@
 ---
 ### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Artifact-remove-from-cardiac-signal)
 
 <div style="text-align: justify">In this project, I used digital signal processing methods to remove artificially induced artifacts from simulated cardiac rhythm.</div>
 <br>
-<center><img src="images/b"/></center>
+<center><img src="images/Signal_1.png"/></center>
 <br>
 
 ---
-## Big Data AI
+## Network Analysis
 
-### Object Detection with Amazon Sagemaker
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
-<div style="text-align: justify">In this project, I built an object detectorfrom the Single Shot Detector(SSD) algorithm. I trained and deployed the model using Amazon Sagemakerto localize faces of dogs and cats from the IIIT-Oxford Pets Dataset.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
