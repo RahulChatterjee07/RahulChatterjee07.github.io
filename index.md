@@ -29,7 +29,7 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 
 <div style="text-align: justify">.</div> This project is about emotion state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different emotional states.
 <br>
-<center><img src="images/new.png"/></center>
+<center><img src="images/Capture 8.PNG"/></center>
 <br>
 
 ---
