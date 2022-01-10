@@ -35,16 +35,15 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 ---
 ### Deep Convolutional Model to Study Brain-stimulation Induced Features from Human EEG Data (May - Aug 2019)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_PROJECT-CNN-Classifier)
 
-<div style="text-align: justify"> In this project, I built a Convolutional Neural network-based framework in PyTorch to identify brain stimulation-induced EEG features. EEG data were collected from 30 subjects with 5 different conditions: sham/20Hz/70Hz/individual β/individual γ tACS brain stimulation.</div>
+<div style="text-align: justify"> In this project, I built a Convolutional Neural network-based framework in PyTorch to identify brain stimulation-induced EEG features. EEG data were collected from 30 subjects with 5 different conditions: sham/20Hz/70Hz/individual β/individual γ tACS brain stimulation. [Ref: "Deep Semantic Architecture with discriminative feature visualization for neuroimage analysis", Ghosh A. et al. 2018.</div>
 <br>
 <center><img src="images/CNN architecture.jpg"/></center>
 <br>
 <div style="text-align: justify"> The experiment protocol of the study can be found below.</div>
 <br>
-<center><img src="images/CNN architecture.jpg"/></center>
+<center><img src="images/Experiment paradigm.PNG"/></center>
 <br>
 
 ---
