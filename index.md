@@ -25,13 +25,11 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 
 ### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
 
 <div style="text-align: justify">.</div> This project is about emotion state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different emotional states.
 <br>
-<center><img src="images/1.PNG"/></center>
+<center><img src="images/new.png"/></center>
 <br>
 
 ---
@@ -42,7 +40,11 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 
 <div style="text-align: justify"> In this project, I built a Convolutional Neural network-based framework in PyTorch to identify brain stimulation-induced EEG features. EEG data were collected from 30 subjects with 5 different conditions: sham/20Hz/70Hz/individual β/individual γ tACS brain stimulation.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/CNN architecture.jpg"/></center>
+<br>
+<div style="text-align: justify"> The experiment protocol of the study can be found below.</div>
+<br>
+<center><img src="images/CNN architecture.jpg"/></center>
 <br>
 
 ---
