@@ -56,6 +56,8 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 <br>
 <center><img src="images/Fig - beta burst.jpg"/></center>
 <br>
+<center><img src="images/2.png"/></center>
+<br>
 
 ---
 ### Unsupervised Machine Learning for Customer Market Segmentation (May - Aug 2021)
