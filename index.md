@@ -25,6 +25,14 @@
 <center><img src="images/Experiment paradigm.PNG"/></center>
 <br>
 
+### Software-hardware Interface for Synchronization of EEG and Force sensor Devices (May - Aug 2019)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_Project-Real-time-data-visualization)
+
+<div style="text-align: justify">In this project, I designed the software hardware interface to synchronize the EEG device with the force sensor and also developed experiemental tasks to study motor learning characteristics.</div>
+<br>
+<center><img src="images/Signal_1.png"/></center>
+<br>
 ---
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (HMM)
 
