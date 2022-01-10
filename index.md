@@ -1,25 +1,5 @@
 # Portfolio
 ---
-## Natural Language Processing (NLP)
-
-### NLP: Tweet Sentiment Analysis with TensorFlow (May - Jun 2018)
-
-I worked on this project during my internship in the Visual Information Processing lab at IIT Kharagpur, India.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
----
-
-### Fake News Detection with Machine Learning (Dec 2021)
-
-In this project, I built a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus.
-
----
 
 ## Time Series Analysis
 
@@ -49,8 +29,7 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 ---
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (HMM)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transient-burst-detection)
 
 <div style="text-align: justify">As part of my Master’s project, I designed a Time-Delay Embedded (TDE) Hidden Markov model to detect transient bursts from the beta frequency range (13 - 30 Hz) of MEG signal. In this study, I have used morlet wavelet transform to extract beta oscillatory envelopes from the raw MEG signal. Also, I am currently developing a Machine learning (ML) pipeline to classify MEG/EEG signal into ’burst’ states in real-time and the results will be further used to design a closed-loop neurofeedback system.</div>
 <br>
@@ -60,11 +39,11 @@ In this project, I built a Bidirectional Neural Network and LSTM based deep lear
 <br>
 
 ---
-### Unsupervised Machine Learning for Customer Market Segmentation (May - Aug 2021)
+### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
-<div style="text-align: justify">In this project, I used unsupervised machine learning models such as PCA and K-Means clustering to perfrom customer segmentation.</div>
+<div style="text-align: justify">In this project, I used digital signal processing methods to remove artificially induced artifacts from simulated cardiac rhythm.</div>
 <br>
 <center><img src="images/b"/></center>
 <br>
