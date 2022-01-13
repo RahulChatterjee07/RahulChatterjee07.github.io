@@ -6,6 +6,13 @@
 
 ## Time Series Analysis
 
+### Stock Price Prediction of Apple Inc. Using Recurrent Neural Network
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/LSTM-Time-Series-Analysis/blob/main/StockPricePrediction.py)
+<br>
+<center><img src="images/stock.png"/></center>
+<br>
+
 ### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
