@@ -1,6 +1,6 @@
 # Portfolio
 ---
-
+<center><img src="photo-1499951360447-b19be8fe80f5.png"/></center>
 ## Time Series Analysis
 
 ### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
