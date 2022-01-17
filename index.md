@@ -37,14 +37,6 @@
 <center><img src="images/stock_result.png"/></center>
 <br>
 
-### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
-<div style="text-align: justify"> This project is about emotion state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different emotional states.</div>
-<br>
-<center><img src="images/Capture 8.PNG"/></center>
-<br>
-
 ### Deep Convolutional Model to Study Brain-stimulation Induced Features from Human EEG Data (May - Aug 2019)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_PROJECT-CNN-Classifier)
@@ -80,6 +72,13 @@
 <center><img src="images/2.png"/></center>
 <br>
 
+### Supervised-learning-based Classification of EEG Signals to Predict Mental States (May - Jun 2018)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
+<div style="text-align: justify"> This project is about mental state classification of human subjects using single channel EEG data. EEG data from 5 subjects were collected during a horror movie, a comedy movie clip and during a mental task. In this study, I have used different supervised machine learning algorithms (such as KNN, SVM, LDA) and studied their performance (precision, recall and F1 score) in classifying different mental states.</div>
+<br>
+<center><img src="images/Capture 8.PNG"/></center>
+<br>
 
 ### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
