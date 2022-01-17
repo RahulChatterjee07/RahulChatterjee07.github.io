@@ -22,7 +22,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/LSTM-Time-Series-Analysis/blob/main/StockPricePrediction.py)
 <div style="text-align: justify"> The project is about prediction of stock price using deep learning. The dataset consists of Open, High, Low and Closing Prices of Apple Inc. stocks from 3rd january 2011 to 13th August 2021. Two sequential LSTM layers have been combined together and one dense layer is used to build the RNN model using Keras deep learning library. Since this is a regression task, 'linear' activation has been used in final layer. </div>
 <br>
-<center><img src="images/stock.png"/></center>
+<center><img src="images/stock_result.png"/></center>
 <br>
 
 ### Supervised-learning-based Classification of EEG Signals to Predict Emotional States (May - Jun 2018)
