@@ -15,6 +15,18 @@
 <br>
 
 ---
+## NLP
+
+### Tweet Emotion Recognition with TensorFlow
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/Tweet-Emotion-Recognition-with-TensorFlow)
+<div style="text-align: justify"> This is a multi class classification problem using a tweet emotion dataset to learn to recognize 6 different emotions ('sadness, 'surprise', 'love', 'anger', 'fear', 'joy) in tweets. A tokenizer is implemented in Tensorflow to perform padding and truncating sequences from tweets. The deep learning model includes Bidirectional long-short term memory(Bidirectional LSTM) and is also implemented in TensorFlow. </div>
+  
+<br>
+<center><img src="images/confusion matrix.PNG"/></center>
+<br>
+
+--- 
 ## Time Series Analysis
 
 ### Stock Price Prediction of Apple Inc. Using Recurrent Neural Network (Dec 2021)
