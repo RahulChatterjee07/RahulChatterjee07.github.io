@@ -3,6 +3,17 @@
 <center><img src="images/photo-1499951360447-b19be8fe80f5.png"/></center>
 
 ---
+## Big Data & Distributed Systems
+
+### Semantic Segmentation using AWS Sagemaker
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/Semantic segmentation)
+<div style="text-align: justify"> In this project, I built an object detector from the Single Shot Detector(SSD) algorithm. Finally, trained and deployed the model using Amazon Sagemaker to localize faces of dogs and cats from the IIIT-Oxford Pets Dataset. </div>
+
+<br>
+<center><img src="images/Results.png"/></center>
+<br>
+---
 
 ## Time Series Analysis
 
