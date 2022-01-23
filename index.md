@@ -27,6 +27,17 @@
 <br>
 
 --- 
+## Exploratory data analysis
+
+### Geocoding and Analyzing San Francisco Building Permit Data (Jan 2021)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Exploratory-data-analysis-using-R-and-Tableau)
+
+<div style="text-align: justify"> In this project, I explored and analyzed more than seven years of the City of San Francisco's building permit data and used OpenStreetMap to find the geo coordinates of buildings. After creating a new clean dataset that includes geo coordinates, I used Tableau to visualize and analyze the dataset. </div>
+<br>
+<center><img src="images/"/></center>
+<br>
+
 ## Time Series Analysis
 
 ### Stock Price Prediction of Apple Inc. Using Recurrent Neural Network (Dec 2021)
