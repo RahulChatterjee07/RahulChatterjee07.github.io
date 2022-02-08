@@ -37,6 +37,8 @@
 <br>
 <center><img src="images/R 1.png"/><img src="images/retl.png"/></center>
 <br>
+### Hyper Parameter Optimization in Artificial Neural Network using MNIST Data from sklearn (Jan 2021)
+
 
 ## Time Series Analysis
 
