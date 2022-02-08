@@ -44,7 +44,7 @@
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1G8tDUuHyqtIXt-AGDxIZmXF7QlgCfJ18#scrollTo=3FQzo9EoObww)
 
 <div style="text-align: justify"> In this project, I implemented different hyperparameter tuning methods (e.g. Grid search, Random search, Hyperband, Bayesian Optimization with Gaussian Processes (BO-GP)) to achieve the optimized set of hyperparameters for the ANN architecture.
-  
+</div>
 
 <center><img src="images/Capture11.PNG"/></center>
 
