@@ -37,9 +37,15 @@
 <br>
 <center><img src="images/R 1.png"/><img src="images/retl.png"/></center>
 <br>
-### Hyper Parameter Optimization in Artificial Neural Network using MNIST Data from sklearn (Jan 2021)
 
+### Hyper Parameter Optimization in Artificial Neural Network (ANN) using MNIST Data from sklearn (Jan 2021)
 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+<div style="text-align: justify"> In this project, I implemented different hyper parameter tuning methods (e.g. Grid search, Random search, Hyperband, Bayesian Optimization with Gaussian Processes (BO-GP)) to achieve the optimized set of hyperparameters for the ANN architecture.
+<br>
+<center><img src="images/capture11.png"/></center>
+<br>
+  
 ## Time Series Analysis
 
 ### Stock Price Prediction of Apple Inc. Using Recurrent Neural Network (Dec 2021)
