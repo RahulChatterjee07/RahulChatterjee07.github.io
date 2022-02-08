@@ -45,9 +45,9 @@
 
 <div style="text-align: justify"> In this project, I implemented different hyperparameter tuning methods (e.g. Grid search, Random search, Hyperband, Bayesian Optimization with Gaussian Processes (BO-GP)) to achieve the optimized set of hyperparameters for the ANN architecture.
   
-<br>
+
 <center><img src="images/Capture11.PNG"/></center>
-<br>
+
   
 ---
 ## Time Series Analysis
