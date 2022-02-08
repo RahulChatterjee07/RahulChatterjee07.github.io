@@ -80,6 +80,7 @@
 <br>
 <center><img src="images/Motor task display.jpg"/></center>
 <br>
+  
 
 ---
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (Sep 2020 - Present)
@@ -94,6 +95,7 @@
 <center><img src="images/2.png"/></center>
 <br>
   
+  
 ---
 ### Supervised-learning-based Classification of EEG Signals to Predict Mental States (May - Jun 2018)
 
@@ -103,6 +105,7 @@
 <center><img src="images/Capture 8.PNG"/></center>
 <br>
 
+  
 ---
 ### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
@@ -113,6 +116,7 @@
 <center><img src="images/Signal_1.png"/></center>
 <br>
 
+  
 ---
 ## Network Analysis
 
