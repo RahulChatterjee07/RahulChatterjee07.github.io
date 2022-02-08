@@ -49,7 +49,7 @@
 <center><img src="images/Capture11.PNG"/></center>
 <br>
   
-
+---
 ## Time Series Analysis
 
 ### Stock Price Prediction of Apple Inc. Using Recurrent Neural Network (Dec 2021)
