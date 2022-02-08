@@ -15,7 +15,7 @@
 <br>
 
 ---
-## NLP
+## Natural language processing (NLP)
 
 ### Tweet Emotion Recognition with TensorFlow
 
@@ -27,7 +27,7 @@
 <br>
 
 --- 
-## Exploratory data analysis
+## Exploratory Data Analysis
 
 ### Geocoding and Analyzing San Francisco Building Permit Data (Jan 2021)
 
@@ -38,6 +38,7 @@
 <center><img src="images/R 1.png"/><img src="images/retl.png"/></center>
 <br>
 
+---
 ### Hyper Parameter Optimization in Artificial Neural Network (ANN) using MNIST Data from sklearn (Jan 2021)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1G8tDUuHyqtIXt-AGDxIZmXF7QlgCfJ18#scrollTo=3FQzo9EoObww)
@@ -58,7 +59,8 @@
 <br>
 <center><img src="images/stock_result.png"/></center>
 <br>
-
+  
+---
 ### Deep Convolutional Model to Study Brain-stimulation Induced Features from Human EEG Data (May - Aug 2019)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_PROJECT-CNN-Classifier)
@@ -67,12 +69,9 @@
 <br>
 <center><img src="images/CNN architecture.jpg"/></center>
 <br>
-<div style="text-align: justify"> The experiment protocol of the study can be found below.</div>
-<br>
-<center><img src="images/Experiment paradigm.PNG"/></center>
-<br>
 
 
+---
 ### Software-hardware Interface for Synchronization of EEG and Force sensor Devices (May - Aug 2019)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/MITACS_Project-Real-time-data-visualization)
@@ -82,6 +81,7 @@
 <center><img src="images/Motor task display.jpg"/></center>
 <br>
 
+---
 ### Predict Transient Spikes in Time Series Data using Time-delay Embedded (TDE) Hidden Markov Model (Sep 2020 - Present)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transient-burst-detection)
@@ -93,7 +93,8 @@
 <br>
 <center><img src="images/2.png"/></center>
 <br>
-
+  
+---
 ### Supervised-learning-based Classification of EEG Signals to Predict Mental States (May - Jun 2018)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Emotion_state_classifier)
@@ -102,6 +103,7 @@
 <center><img src="images/Capture 8.PNG"/></center>
 <br>
 
+---
 ### Removing Artificial Noise from Acoustic Cardiac Signal (Dec - Jan 2021)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Artifact-remove-from-cardiac-signal)
