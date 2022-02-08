@@ -87,7 +87,7 @@
 
 <div style="text-align: justify">As part of my Master’s project, I designed a Time-Delay Embedded (TDE) Hidden Markov model to detect transient bursts from the beta frequency range (13 - 30 Hz) of MEG signal. In this study, I have used morlet wavelet transform to extract beta oscillatory envelopes from the raw MEG signal. Also, I am currently developing a Machine learning (ML) pipeline to classify MEG/EEG signal into ’burst’ states in real-time and the results will be further used to design a closed-loop neurofeedback system.</div>
 <br>
-<center><img src="images/Fig - beta burst.jpg"/></center>
+<center><img src="images/download.png"/></center>
 <br>
 <center><img src="images/2.png"/></center>
 <br>
