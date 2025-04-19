@@ -23,7 +23,7 @@
 <div style="text-align: justify"> This project simulates an intelligent routing engine that automatically directs various document types (e.g., forms, reports, assessments, correspondence) to appropriate LLM prompt templates. Inspired by real-world enterprise applications, it uses mocked Textract outputs and a simple rule engine to demonstrate the concept. </div>
   
 <br>
-<center><img src="images/confusion matrix.png"/></center>
+<center><img src="images/assessment_output_view_full.png"/></center>
 <br>
 
 --- 
