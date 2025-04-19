@@ -27,6 +27,16 @@
 <br>
 
 --- 
+### Multimodal QnA System for Personal Injury Case Data (AWS Bedrock + Claude Sonnet)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/legalmed-qa-system.git)
+<div style="text-align: justify"> This project simulates a multimodal Question Answering system for legal and medical documents — designed for workflows such as personal injury cases, disability assessments, and insurance claims. It demonstrates: Claude Sonnet QnA via AWS Bedrock, Retrieval-Augmented Generation (RAG), Prompt templating and structured outputs, Multimodal inputs (text + image) </div>
+  
+<br>
+<center><img src="images/assessment_output_view_full.png"/><img src="images/correspondence_output_view_full.png"/></center>
+<br>
+
+--- 
 ### Tweet Emotion Recognition with TensorFlow
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/Tweet-Emotion-Recognition-with-TensorFlow)
