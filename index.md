@@ -17,6 +17,16 @@
 ---
 ## Natural language processing (NLP)
 
+### Intelligent Prompt Routing Engine using AWS Textract Layout for LLM Preprocessing
+
+[![Open Notebook](https://github.com/RahulChatterjee07/prompt-routing-engine.git)
+<div style="text-align: justify"> This project simulates an intelligent routing engine that automatically directs various document types (e.g., forms, reports, assessments, correspondence) to appropriate LLM prompt templates. Inspired by real-world enterprise applications, it uses mocked Textract outputs and a simple rule engine to demonstrate the concept. </div>
+  
+<br>
+<center><img src="images/confusion matrix.png"/></center>
+<br>
+
+--- 
 ### Tweet Emotion Recognition with TensorFlow
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/Tweet-Emotion-Recognition-with-TensorFlow)
