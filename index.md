@@ -27,6 +27,22 @@
 <br>
 
 --- 
+### Fine-tuning LLMs with AWS Claude Haiku
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/haiku-finetune-lab.git)
+<div style="text-align: justify"> This project simulates the fine-tuning of AWS Claude Haiku for domain-specific tasks like structured information extraction and Q&A.
+
+🔧 Features
+📦 Converts training data into Claude-compatible JSONL format
+🎯 Simulates fine-tuning on custom tasks
+📊 Evaluates performance with basic metrics
+🧠 Shows output differences before and after fine-tuning </div>
+  
+<br>
+<center><img src="images/haiku_token_cost_comparison.png"/><img src="images/haiku_finetune_comparison.png"/></center>
+<br>
+
+--- 
 ### Intelligent Prompt Routing Engine using AWS Textract Layout for LLM Preprocessing
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/prompt-routing-engine.git)
