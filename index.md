@@ -55,7 +55,7 @@ Detects duplicate or overlapping billings for fraud prevention
 Outputs standardized JSON for downstream audit tools </div>
   
 <br>
-<center><img src="images/haiku_token_cost_comparison.png"/><img src="images/haiku_finetune_comparison.png"/></center>
+<center><img src="images/insurance_claim_visual_output.png"/></center>
 <br>
 
 --- 
