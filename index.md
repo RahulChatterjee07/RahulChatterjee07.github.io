@@ -69,6 +69,21 @@ Outputs standardized JSON for downstream audit tools </div>
 <br>
 
 --- 
+
+## Big Data & Distributed Systems
+
+### Scalable Text & Transaction Intelligence System (spaCy + AWS Quicksight)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transaction_Insights_Dashboard.git)
+<div style="text-align: justify"> In this project, I built a non-LLM analytics pipeline that transforms raw documents and transactional records into structured insights, enabling fraud detection, forecasting, classification, and real-time monitoring. Designed for scalable environments like rideshare, e-commerce, and financial operations. 🔧 Features: Extracts key fields (dates, prices, vendors) from receipts, logs, contracts
+📍 Named entity recognition (NER) for org names, locations, references
+📂 ML-based document classification: SVM, logistic regression
+📈 Statistical forecasting (ARIMA, Holt-Winters) for tickets & transactions
+<br>
+<center><img src="images/transaction_dashboard_mock.png"/></center>
+<br>
+---
+  
 ## Exploratory Data Analysis
 
 ### Geocoding and Analyzing San Francisco Building Permit Data (Jan 2021)
