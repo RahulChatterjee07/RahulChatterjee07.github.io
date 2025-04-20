@@ -13,7 +13,7 @@
 📂 ML-based document classification: SVM, logistic regression
 📈 Statistical forecasting (ARIMA, Holt-Winters) for tickets & transactions
 <br>
-<center><img src="images/transaction_dashboard_mock.jpg"/></center>
+<center><img src="images/transaction_dashboard_mock.png"/></center>
 <br>
 
 ---
