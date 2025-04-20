@@ -69,7 +69,6 @@ Outputs standardized JSON for downstream audit tools </div>
 <br>
 
 --- 
-
 ## Big Data & Distributed Systems
 
 ### Scalable Text & Transaction Intelligence System (spaCy + AWS Quicksight)
