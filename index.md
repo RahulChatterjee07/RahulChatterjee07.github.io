@@ -82,7 +82,6 @@ Outputs standardized JSON for downstream audit tools </div>
 <center><img src="images/transaction_dashboard_mock.png"/></center>
 <br>
   
----
 ## Exploratory Data Analysis
 
 ### Geocoding and Analyzing San Francisco Building Permit Data (Jan 2021)
