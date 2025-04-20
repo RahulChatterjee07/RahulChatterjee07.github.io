@@ -69,6 +69,7 @@ Outputs standardized JSON for downstream audit tools </div>
 <br>
 
 --- 
+
 ## Big Data & Distributed Systems
 
 ### Scalable Text & Transaction Intelligence System (spaCy + AWS Quicksight)
@@ -83,6 +84,7 @@ Outputs standardized JSON for downstream audit tools </div>
 <br>
   
 ---
+
 ## Exploratory Data Analysis
 
 ### Geocoding and Analyzing San Francisco Building Permit Data (Jan 2021)
