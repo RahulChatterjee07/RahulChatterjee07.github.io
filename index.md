@@ -38,7 +38,7 @@
 📦 Converts training data into Claude-compatible JSONL format
 🎯 Simulates fine-tuning on custom tasks
 📊 Evaluates performance with basic metrics
-🧠 Shows output differences before and after fine-tuning </div>
+🧠 Shows output differences before and after fine-tuning. </div>
   
 <br>
 <center><img src="images/haiku_token_cost_comparison.png"/><img src="images/haiku_finetune_comparison.png"/></center>
