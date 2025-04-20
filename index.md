@@ -5,7 +5,7 @@
 ---
 ## Big Data & Distributed Systems
 
-### Scalable Text & Transaction Intelligence System (Spacy + AWS Quicksight)
+### Scalable Text & Transaction Intelligence System (spaCy + AWS Quicksight)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transaction_Insights_Dashboard.git)
 <div style="text-align: justify"> In this project, I built a non-LLM analytics pipeline that transforms raw documents and transactional records into structured insights, enabling fraud detection, forecasting, classification, and real-time monitoring. Designed for scalable environments like rideshare, e-commerce, and financial operations. Features: Extracts key fields (dates, prices, vendors) from receipts, logs, contracts
