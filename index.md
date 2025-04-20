@@ -20,7 +20,7 @@
 ### Multimodal QnA System for Personal Injury Case Data (AWS Bedrock + Claude Sonnet 3)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/legalmed-qa-system.git)
-<div style="text-align: justify"> This project simulates a multimodal Question Answering system for legal and medical documents — designed for workflows such as personal injury cases, disability assessments, and insurance claims. It demonstrates: Claude Sonnet QnA via AWS Bedrock, Retrieval-Augmented Generation (RAG), Prompt templating and structured outputs, Multimodal inputs (text + image) </div>
+<div style="text-align: justify"> This project simulates a multimodal Question Answering system for legal and medical documents — designed for workflows such as personal injury cases, disability assessments, and insurance claims. It demonstrates: Claude Sonnet QnA via AWS Bedrock, Retrieval-Augmented Generation (RAG), Prompt templating and structured outputs, Multimodal inputs (text + image). </div>
   
 <br>
 <center><img src="images/legalmed_qa_output_example_4.png"/><img src="images/legalmed_qa_output_example_6.png"/></center>
