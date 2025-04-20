@@ -5,11 +5,13 @@
 ---
 ## Big Data & Distributed Systems
 
-### Semantic Segmentation using AWS Sagemaker
+### Scalable Text & Transaction Intelligence System
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/RahulChatterjee07/Semantic-segmentation)
-<div style="text-align: justify"> In this project, I built an object detector from the Single Shot Detector(SSD) algorithm. Finally, trained and deployed the model using Amazon Sagemaker to localize faces of dogs and cats from the IIIT-Oxford Pets Dataset. </div>
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/Transaction_Insights_Dashboard.git)
+<div style="text-align: justify"> In this project, I built a non-LLM analytics pipeline that transforms raw documents and transactional records into structured insights, enabling fraud detection, forecasting, classification, and real-time monitoring. Designed for scalable environments like rideshare, e-commerce, and financial operations. Features: Extracts key fields (dates, prices, vendors) from receipts, logs, contracts
+📍 Named entity recognition (NER) for org names, locations, references
+📂 ML-based document classification: SVM, logistic regression
+📈 Statistical forecasting (ARIMA, Holt-Winters) for tickets & transactions
 <br>
 <center><img src="images/Results.jpg"/></center>
 <br>
