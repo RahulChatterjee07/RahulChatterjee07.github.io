@@ -15,8 +15,6 @@
 <br>
 <center><img src="images/transaction_dashboard_mock.png"/></center>
 <br>
-  
----
 
 ## Natural language processing (NLP)
 
