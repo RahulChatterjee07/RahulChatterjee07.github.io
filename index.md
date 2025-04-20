@@ -43,6 +43,22 @@
 <br>
 
 --- 
+### Insurance Claim Auditor – Medical Timeline & Fraud Detection with LLMs
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/haiku-finetune-lab.git)
+<div style="text-align: justify"> This project simulates an advanced LLM-based pipeline for insurance claim analysis, specifically targeting Ontario Claim Forms (OCFs), medical invoices, and duplicate billing detection. The system combines fast inference with Hugging Face Phi-3.5 and structured JSON generation using fine-tuned LLaMA, and is deployable to Amazon SageMaker.
+  
+🔧 Features: Extracts chronological medical events from unstructured documents
+Parses OCF-21, OCF-18 and OCF-23 forms to extract claimed amounts
+Identifies invoices and maps them to treatment categories
+Detects duplicate or overlapping billings for fraud prevention
+Outputs standardized JSON for downstream audit tools </div>
+  
+<br>
+<center><img src="images/haiku_token_cost_comparison.png"/><img src="images/haiku_finetune_comparison.png"/></center>
+<br>
+
+--- 
 ### Intelligent Prompt Routing Engine using AWS Textract Layout for LLM Preprocessing
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahulChatterjee07/prompt-routing-engine.git)
